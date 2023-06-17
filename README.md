@@ -32,7 +32,7 @@ You can make unlimited RDP anytime and anywhere, to be able to use this RDP you 
 ## ROOT ACCESS
 
     ```
-    User     : NAHID
+    User     : rajnikant
     Password : 1234
     ```
 Please follow/star/fork in my project,
